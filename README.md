@@ -1,5 +1,5 @@
 # Hate-speech-classification-
-In this project we mainly compare the results of the classification of the given dataset with diffrent types of models and further with different types of embeddings like word2vec and fasttext 
+In this project  we mainly compare the results of the classification of the given dataset with diffrent types of models and further with different types of embeddings like word2vec and fasttext 
 In near future we are going to research on pre-processing and embeddings particularly multilingual embedings and also explore the use of various use cases of NLP . 
 we used the following models and the following embedding techniques and the results are as follows::
 CNN,LSTM,Bi-LSTM,Bert (word2vec and fasttext)
